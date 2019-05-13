@@ -1,0 +1,6 @@
+{
+  "bb_sync_version":"1.0",
+  "name":"DiceProfit_Bot",
+  "git_remote":"git@github.com:KingCrypto32/the-Mini-Millionaire.git",
+  "csv_url":"https://docs.google.com/spreadsheets/d/e/2PACX-1vRwjeN2NYiNenNQ1UxyPcOYEsCQgjgtfSBKL-x_NvI49qBTCZWjsfAs0Bv7FjshFJdUaD00_Ngirsr9/pub?output=csv"
+}
